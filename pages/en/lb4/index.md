@@ -9,6 +9,8 @@ permalink: /doc/en/lb4/index.html
 summary: LoopBack is a platform for building APIs and microservices in Node.js
 ---
 
+## Rand's fork of loopback.io site for demo purposes!
+
 {% include important.html content="LoopBack 4 is the next step in the evolution of LoopBack.  It is still in early development and is not yet released.
 " %}
 
