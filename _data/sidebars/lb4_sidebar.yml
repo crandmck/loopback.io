@@ -12,11 +12,11 @@ url: /doc/en/lb4/index.html
 children:
 
 - title: 'Installation'
-  url: /doc/en/lb4/Installation.html
+  url: Installation.html
   output: 'web, pdf'
 
 - title: 'Getting started'
-  url: /doc/en/lb4/Getting-started.html
+  url: Getting-started.html
   output: 'web, pdf'
   children:
 
